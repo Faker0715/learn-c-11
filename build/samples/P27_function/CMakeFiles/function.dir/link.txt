@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\function.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\function.dir/objects.a @CMakeFiles\function.dir\objects1.rsp
+C:\TDM-GCC-64\bin\x86_64-w64-mingw32-g++.exe -g -std=c++14 -g -Wall -pthread -m64 -Wl,--whole-archive CMakeFiles\function.dir/objects.a -Wl,--no-whole-archive -o ..\..\..\bin\Windows_64_Debug\function.exe -Wl,--out-implib,..\..\..\bin\Windows_64_Debug\libfunction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\function.dir\linklibs.rsp

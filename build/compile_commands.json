@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/project/c++11/build/samples/P12_return_value_rear",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\return_value_rear.dir\\main.cpp.obj -c D:\\project\\c++11\\samples\\P12_return_value_rear\\main.cpp",
+  "file": "D:/project/c++11/samples/P12_return_value_rear/main.cpp"
+},
+{
+  "directory": "D:/project/c++11/build/samples/P13_final",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\final.dir\\main.cpp.obj -c D:\\project\\c++11\\samples\\P13_final\\main.cpp",
+  "file": "D:/project/c++11/samples/P13_final/main.cpp"
+},
+{
+  "directory": "D:/project/c++11/build/samples/P27_function",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\function.dir\\main.cpp.obj -c D:\\project\\c++11\\samples\\P27_function\\main.cpp",
+  "file": "D:/project/c++11/samples/P27_function/main.cpp"
+},
+{
+  "directory": "D:/project/c++11/build/samples/P36_location_value",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\location_value.dir\\main.cpp.obj -c D:\\project\\c++11\\samples\\P36_location_value\\main.cpp",
+  "file": "D:/project/c++11/samples/P36_location_value/main.cpp"
+},
+{
+  "directory": "D:/project/c++11/build/samples/P48_weak_ptr",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\weak_ptr.dir\\main.cpp.obj -c D:\\project\\c++11\\samples\\P48_weak_ptr\\main.cpp",
+  "file": "D:/project/c++11/samples/P48_weak_ptr/main.cpp"
+}
+]

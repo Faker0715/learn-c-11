@@ -1,0 +1,5 @@
+﻿add_subdirectory(P12_return_value_rear)
+add_subdirectory(P13_final)
+add_subdirectory(P27_function)
+add_subdirectory(P36_location_value)
+add_subdirectory(P48_weak_ptr)

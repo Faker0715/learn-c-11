@@ -1,0 +1,5 @@
+﻿add_executable(weak_ptr)
+target_sources(weak_ptr
+PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+)

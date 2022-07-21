@@ -1,0 +1,192 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "samples",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-samples-Debug-026e8de27727d40e5852.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "samples"
+				},
+				{
+					"build" : "samples/P12_return_value_rear",
+					"jsonFile" : "directory-samples.P12_return_value_rear-Debug-6505bcc15952d36496b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "samples/P12_return_value_rear",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "samples/P13_final",
+					"jsonFile" : "directory-samples.P13_final-Debug-be457fda0b7573bf1e6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "samples/P13_final",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "samples/P27_function",
+					"jsonFile" : "directory-samples.P27_function-Debug-2a14fcdfd68dc31aaf05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "samples/P27_function",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "samples/P36_location_value",
+					"jsonFile" : "directory-samples.P36_location_value-Debug-6d62a047eda8cd134852.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "samples/P36_location_value",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "samples/P48_weak_ptr",
+					"jsonFile" : "directory-samples.P48_weak_ptr-Debug-2821efeaabcee2eba53a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "samples/P48_weak_ptr",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "cmake_tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "final::@687cbe965230538297ab",
+					"jsonFile" : "target-final-Debug-fa4794e3b99b79b442cc.json",
+					"name" : "final",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "function::@644f626a00b9dd1bcf03",
+					"jsonFile" : "target-function-Debug-3cb320bb58634d50d928.json",
+					"name" : "function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "location_value::@cb75c47ffc952443f2f7",
+					"jsonFile" : "target-location_value-Debug-b33f9a9b8675d916cb42.json",
+					"name" : "location_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "return_value_rear::@3ca6e1e65eaf0d89be38",
+					"jsonFile" : "target-return_value_rear-Debug-6a5c4caab3d041e57e56.json",
+					"name" : "return_value_rear",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "weak_ptr::@fb5a8d4d91830b82d011",
+					"jsonFile" : "target-weak_ptr-Debug-653ae97f288602de11dc.json",
+					"name" : "weak_ptr",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/project/c++11/build",
+		"source" : "D:/project/c++11"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

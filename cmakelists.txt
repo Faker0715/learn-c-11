@@ -1,0 +1,16 @@
+﻿#首先要指定最低版本
+cmake_minimum_required(VERSION 3.22.0)
+#建一个工程
+project(cmake_tutorial)
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_CURRENT_SOURCE_DIR}/cmakeconf")
+#重用配置文件，对不同的编译器使用不同的参数，对输出目录进行控制
+#include(cmakeconf/compiler_conf.cmake)
+#include(cmakeconf/building_output.cmake)
+
+#写了上面的set就可以不用写全部路径了 同时cmake后缀也可以去掉
+include(compiler_conf)
+include(building_output)
+
+
+#包含工程
+add_subdirectory(samples)

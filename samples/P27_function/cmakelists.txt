@@ -1,0 +1,5 @@
+﻿add_executable(function)
+target_sources(function
+PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+)
